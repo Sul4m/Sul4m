@@ -14,16 +14,15 @@
 
 ## 👋 Sobre mí
 
-Soy **Ingeniero de Software**, con experiencia en **desarrollo backend en Java**.  
-Actualmente, mi enfoque principal está en el **aprendizaje y práctica de la ciberseguridad**, combinando el **desarrollo de software**, una perspectiva **ofensiva** y el uso de **Inteligencia Artificial como apoyo técnico**.
+Soy ingeniero de software con maestría en ciberseguridad y más de 5 años de experiencia construyendo plataformas backend de alto rendimiento en Java sobre Cloud (AWS/GCP), con arquitectura de microservicios, DevOps y código limpio.
 
-Me interesa abordar la seguridad desde múltiples ángulos:
-- cómo se construyen las aplicaciones,
-- cómo se atacan y se vulneran,
-- y cómo ese conocimiento se utiliza para diseñar software más seguro.
+En ciberseguridad me especializo en seguridad ofensiva: pentesting y ethical hacking sobre aplicaciones web y APIs bajo estándares OWASP, threat modeling, hardening de infraestructura cloud, auditoría de APIs, validación de flujos OAuth 2.0 y automatización de seguridad (AppSec/DevSecOps) en pipelines de CI/CD. Pienso como atacante y actúo como desarrollador seguro: encuentro los fallos que muchos pasan por alto y los traduzco en riesgo priorizado, evidencia y remediación accionable.
 
-Mi interés en la ciberseguridad nace desde el código:  
-entender cómo se rompen las aplicaciones, cómo se atacan y cómo diseñarlas de forma más segura desde el inicio.
+En inteligencia artificial diseño y construyo agentes de IA y automatizaciones aplicadas tanto al desarrollo como a la seguridad (análisis de código, reconocimiento, triage y priorización de vulnerabilidades, generación de evidencia), y desarrollo una plataforma de seguridad nativa de IA. Uso la inteligencia artificial como un motor que multiplica velocidad y cobertura, siempre con validación humana en las decisiones críticas.
+
+Ese cruce entre construir, asegurar y automatizar con IA es mi verdadero diferencial: entiendo el software por dentro, sé cómo se rompe y sé cómo potenciarlo con inteligencia artificial.
+
+Si querés construir tecnología más segura, o sumar a alguien que domine desarrollo, IA y ciberseguridad a la vez, hablemos.
 
 ---
 
