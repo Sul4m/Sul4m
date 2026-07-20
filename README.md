@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Ingeniero de Software Senior en Java · Entusiasta de la Ciberseguridad
+  Ingeniero de Software Senior & Magíster en Ciberseguridad · Entusiasta de la Ciberseguridad
 </p>
 
 ---
