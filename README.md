@@ -14,15 +14,17 @@
 
 ## 👋 Sobre mí
 
-Soy ingeniero de software especializado en ciberseguridad ofensiva, con más de cinco años de experiencia desarrollando soluciones con Java, microservicios, cloud y DevOps.
+Soy ingeniero de software especializado en ciberseguridad, con más de cinco años de experiencia desarrollando soluciones backend con Java, microservicios, cloud y DevOps.
 
-Mi enfoque principal está en Red Team, pentesting y ethical hacking sobre entornos Windows/Linux, aplicaciones web, APIs e infraestructura cloud. Aplico metodologías y estándares como PTES, OWASP WSTG, OWASP ASVS Nivel 2, OWASP API Security Top 10 y MITRE ATT&CK. También trabajo con threat modeling, auditoría de APIs, OAuth 2.0, cloud security, hardening y automatización AppSec/DevSecOps.
+Mi enfoque principal está en seguridad ofensiva, Red Team y pentesting sobre aplicaciones web, APIs, entornos Windows/Linux e infraestructura cloud. Trabajo con PTES, OWASP WSTG, OWASP ASVS Nivel 2, OWASP Top 10 y MITRE ATT&CK.
 
-Complemento la visión ofensiva con conocimientos de Blue Team en SIEM, Threat Detection, Threat Hunting, respuesta ante incidentes, análisis forense y reconstrucción de incidentes, inteligencia de amenazas, OSINT y SOCMINT. Tomo como referencia ISO/IEC 27001:2022, NIST CSF 2.0 y NIST SP 800-61 Rev. 3.
+En AppSec aplico threat modeling, análisis de vulnerabilidades y prácticas de desarrollo seguro. Desde DevSecOps integro y automatizo controles de seguridad en pipelines de CI/CD, complementados con Cloud Security y hardening de infraestructura en GCP/GKE.
 
-En inteligencia artificial y machine learning diseño, entreno y evalúo modelos, además de construir agentes y automatizaciones aplicadas al desarrollo y la seguridad. Trabajo en análisis de código, reconocimiento, triage de vulnerabilidades, generación de evidencia y apoyo a investigaciones técnicas.
+También cuento con conocimientos de Blue Team en SIEM, Threat Detection, Threat Hunting, respuesta ante incidentes y análisis forense para su reconstrucción. Complemento estas capacidades con inteligencia de amenazas, OSINT y SOCMINT, tomando como referencia ISO/IEC 27001:2022, NIST CSF 2.0 y NIST SP 800-61 Rev. 3.
 
-Mi diferencial es combinar experiencia construyendo software, mentalidad Red Team, conocimiento Blue Team e IA/ML para identificar riesgos con mayor profundidad y convertirlos en remediaciones y soluciones accionables.
+En inteligencia artificial y machine learning diseño, entreno y evalúo modelos, además de construir agentes y automatizaciones para análisis de código, reconocimiento técnico, triage de vulnerabilidades, generación de evidencia y apoyo a investigaciones.
+
+Mi diferencial es combinar experiencia construyendo software, mentalidad ofensiva, conocimiento defensivo e IA/ML para identificar riesgos con mayor profundidad y convertirlos en remediaciones accionables.
 
 ---
 
