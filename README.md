@@ -1,9 +1,9 @@
 <h1 align="center">
-  Andrew Ramirez (Aka. Sul4m)
+  Andrew Ramirez
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sul4m/Sul4m/main/banner.png" alt="Andrew Ramirez Sul4m Banner" />
+  <img src="https://raw.githubusercontent.com/Sul4m/Sul4m/main/banner_personal.jpeg" alt="Andrew Ramirez Sul4m Banner" />
 </p>
 
 <p align="center">
