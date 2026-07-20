@@ -14,15 +14,15 @@
 
 ## 👋 Sobre mí
 
-Soy ingeniero de software con maestría en ciberseguridad y más de 5 años de experiencia construyendo plataformas backend de alto rendimiento en Java sobre Cloud (AWS/GCP), con arquitectura de microservicios, DevOps y código limpio.
+Soy ingeniero de software especializado en ciberseguridad ofensiva, con más de cinco años de experiencia desarrollando soluciones con Java, microservicios, cloud y DevOps.
 
-En ciberseguridad me especializo en seguridad ofensiva: pentesting y ethical hacking sobre aplicaciones web y APIs bajo estándares OWASP, threat modeling, hardening de infraestructura cloud, auditoría de APIs, validación de flujos OAuth 2.0 y automatización de seguridad (AppSec/DevSecOps) en pipelines de CI/CD. Pienso como atacante y actúo como desarrollador seguro: encuentro los fallos que muchos pasan por alto y los traduzco en riesgo priorizado, evidencia y remediación accionable.
+Mi enfoque principal está en Red Team, pentesting y ethical hacking sobre entornos Windows/Linux, aplicaciones web, APIs e infraestructura cloud. Aplico metodologías y estándares como PTES, OWASP WSTG, OWASP ASVS Nivel 2, OWASP API Security Top 10 y MITRE ATT&CK. También trabajo con threat modeling, auditoría de APIs, OAuth 2.0, cloud security, hardening y automatización AppSec/DevSecOps.
 
-En inteligencia artificial diseño y construyo agentes de IA y automatizaciones aplicadas tanto al desarrollo como a la seguridad (análisis de código, reconocimiento, triage y priorización de vulnerabilidades, generación de evidencia), y desarrollo una plataforma de seguridad nativa de IA. Uso la inteligencia artificial como un motor que multiplica velocidad y cobertura, siempre con validación humana en las decisiones críticas.
+Complemento la visión ofensiva con conocimientos de Blue Team en SIEM, Threat Detection, Threat Hunting, respuesta ante incidentes, análisis forense y reconstrucción de incidentes, inteligencia de amenazas, OSINT y SOCMINT. Tomo como referencia ISO/IEC 27001:2022, NIST CSF 2.0 y NIST SP 800-61 Rev. 3.
 
-Ese cruce entre construir, asegurar y automatizar con IA es mi verdadero diferencial: entiendo el software por dentro, sé cómo se rompe y sé cómo potenciarlo con inteligencia artificial.
+En inteligencia artificial y machine learning diseño, entreno y evalúo modelos, además de construir agentes y automatizaciones aplicadas al desarrollo y la seguridad. Trabajo en análisis de código, reconocimiento, triage de vulnerabilidades, generación de evidencia y apoyo a investigaciones técnicas.
 
-Si querés construir tecnología más segura, o sumar a alguien que domine desarrollo, IA y ciberseguridad a la vez, hablemos.
+Mi diferencial es combinar experiencia construyendo software, mentalidad Red Team, conocimiento Blue Team e IA/ML para identificar riesgos con mayor profundidad y convertirlos en remediaciones y soluciones accionables.
 
 ---
 
