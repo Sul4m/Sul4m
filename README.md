@@ -65,20 +65,6 @@ BicciWallet es un sistema de microservicios de estilo bancario deliberadamente v
 
 ---
 
-## 📚 Academia de Ciberseguridad
-
-He creado una academia de ciberseguridad y desarrollo de software con un enfoque práctico, orientada tanto a personas que ya vienen del desarrollo de software como a quienes desean iniciarse en el mundo de la ciberseguridad y el hacking.
-
-La academia está pensada para:
-
-- desarrolladores que quieren aprender a desarrollar de forma segura, sin importar su nivel,
-- personas interesadas en **ciberseguridad ofensiva, pentesting y hacking aplicado a aplicaciones web y móviles**,
-- perfiles que buscan entender la seguridad desde el código, los ataques reales y escenarios prácticos.
-
-🌐 **www.sulamtech.com**
-
----
-
 ## 🌐 Contacto
 
 <p align="center">
